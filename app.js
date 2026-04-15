@@ -73,7 +73,7 @@ app.post("/auth/ani", (req, res) => {
     });
   }
 
-  res.json({customer });
+  res.json(customer);
 });
 
 // ------------------ AUTH FALLBACK ------------------
