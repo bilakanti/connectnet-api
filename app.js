@@ -17,7 +17,7 @@ let customers = [
   },
   {
     name: "James Whitfield",
-    phone: "614-555-0187",
+    phone: "518-797-1094",
     account: "M-7304-BJ-518",
     type: "Residential",
     appointment: { day: "Day+8", slot: "afternoon" }
